@@ -22,10 +22,10 @@ Features include country and profession analysis, salary trends, and job satisfa
 
 <ul><p>A machine learning project predicting customer churn using Python and various ML algorithms.
 Focus on feature engineering, model tuning, and evaluation.</p> </ul> </br>
-<li>Global Sales Analysis:</li> </br>
+<li>Global Jobs Analysis:</li> </br>
 
-<ul><p>A comprehensive analysis of global sales data using SQL and Power BI.
-Visualizations highlighting sales performance, regional comparisons, and trend analysis.</p> </ul>
+<ul><p>A comprehensive analysis of global sales data using SQL .
+Visualizations highlighting skills performance, regional comparisons, and trend analysis.</p> </ul>
 </br>
 <ol><b>📈 Goals:</b></ol>
 
