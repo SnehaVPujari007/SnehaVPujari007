@@ -27,6 +27,9 @@ Focus on feature engineering, model tuning, and evaluation.</p> </ul> </br>
 <ul><p>A comprehensive analysis of global sales data using SQL .
 Visualizations highlighting skills performance, regional comparisons, and trend analysis.</p> </ul>
 </br>
+<p>Other Projects too .....</p>
+</br>
+
 <ol><b>📈 Goals:</b></ol>
 
 <li>Continue exploring and leveraging data to drive strategic decisions.</li>
@@ -34,7 +37,7 @@ Visualizations highlighting skills performance, regional comparisons, and trend 
 <li>Contribute to open-source projects and collaborate with the data science community.</li> </br>
 <ol><b>📫 Get in Touch:</b></ol>
 
-<li><b>LinkedIn: https://www.linkedin.com/in/sneha-vilasrao-pujari/ </b></li>
+<li><b>LinkedIn: https://www.linkedin.com/in/sneha-vilasrao-pujari </b></li>
 <li><b>Email: dotsnehapujari555@gmail.com</b></li></br>
 
 <b>🔗 Follow me on GitHub for more exciting data projects and insights! </b>
