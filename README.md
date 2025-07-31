@@ -104,9 +104,6 @@
   
   💼 Open for: **Data Analyst | Business Intelligence | ML Engineer** roles  
   🌍 Based in: **Sheffield, United Kingdom** 
-    **LinkedIn**: [Sneha Pujari](https://www.linkedin.com/in/sneha-vilasrao-pujari)
-    **Email**: [dotsnehapujari555@gmail.com](mailto:dotsnehapujari555@gmail.com)
-  
   
   *"In data we trust, in insights we act."*
 
