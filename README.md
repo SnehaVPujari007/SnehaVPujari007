@@ -68,8 +68,8 @@
 - Built predictive models with 85%+ accuracy
 - **Stack:** Python, Scikit-learn, Data Visualization
 
-Many more....
-For more project, please go through the repositories ✌️
+**and many more....**
+**For more projects, please go through the repositories✌️**
 
 ---
 
