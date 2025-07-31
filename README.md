@@ -1,38 +1,122 @@
-# 👋 Hello! I'm Sneha Pujari
+# Hi there! 👋 I'm Sneha Pujari
 
-## 🔍 About Me
-🎓 Data Analyst with a passion for transforming data into actionable insights.  
-💡 Experienced in Power BI, Python, SQL, and data visualization.  
-🌍 Enthusiastic about global data trends and comparative analysis.  
-📊 Specializing in survey data analysis and dashboard development.
+<div align="center">
+  
+  **🔍 Data Explorer | 📊 Analytics Enthusiast | 💡 Insight Generator**
+  
+  *Transforming data into actionable insights*
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-vilasrao-pujari)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dotsnehapujari555@gmail.com)
+  [![Location](https://img.shields.io/badge/Sheffield-UK-blue?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
-## 🔧 Skills:
-- **Data Analysis**: Statistical analysis, data cleaning, and data transformation.
-- **Visualization Tools**: Power BI, Tableau, and Excel.
-- **Programming Languages**: Python, R, and SQL.
-- **Data Management**: Database design, ETL processes, and data warehousing.
+</div>
 
-## 🌟 Projects:
-### Power BI Survey Dashboard:
-An interactive dashboard analyzing survey data of different professions across various countries. Features include country and profession analysis, salary trends, and job satisfaction insights.
+---
 
-### Customer Churn Prediction:
-A machine learning project predicting customer churn using Python and various ML algorithms. Focus on feature engineering, model tuning, and evaluation.
+## 🚀 About Me
 
-### Global Jobs Analysis:
-A comprehensive analysis of global sales data using SQL. Visualizations highlighting skills performance, regional comparisons, and trend analysis.
+🎓 **Data Analyst** passionate about uncovering stories hidden in data  
+💼 Currently exploring opportunities in **Sheffield, UK**  
+🌍 Specializing in **global data trends** and **comparative analysis**  
+📈 Expert in transforming complex datasets into clear, actionable insights
 
-### Other Projects:
-- (Include details of other projects here...)
+---
 
-## 📈 Goals:
-- Continue exploring and leveraging data to drive strategic decisions.
-- Expand knowledge in machine learning and AI applications in data analytics.
-- Contribute to open-source projects and collaborate with the data science community.
+## 🛠️ Tech Stack
 
-## 📫 Get in Touch:
-- **LinkedIn**: [Sneha Pujari](https://www.linkedin.com/in/sneha-vilasrao-pujari)
-- **Email**: [dotsnehapujari555@gmail.com](mailto:dotsnehapujari555@gmail.com)
+<div align="center">
 
-🔗 Follow me on GitHub for more exciting data projects and insights!
+### **Languages & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### **Visualization & BI**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### **Data & ML**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### 📊 [FICO Score Bucketing Tool](https://github.com/SnehaVPujari007/FICO-Score-Bucketing-Tool)
+*Quantile-based credit risk assessment system*
+- Built automated FICO score bucketing with default rate analysis
+- **Stack:** Python, Pandas
+
+### ⛽ [Natural Gas Price Forecasting](https://github.com/SnehaVPujari007/Natural-gas-price-forecasting)
+*Advanced time series forecasting for energy markets*
+- Developed predictive models for natural gas pricing
+- **Stack:** Python, Machine Learning
+
+### 🧠 [Stroke Data Analytics](https://github.com/SnehaVPujari007/Stroke-Data-Analytics-Phase-2)
+*Healthcare analytics for stroke prediction*
+- Analyzed patient data to identify stroke risk factors
+- **Stack:** Python, Statistical Analysis
+
+### 💳 [Customer Churn Prediction](https://github.com/SnehaVPujari007/Customer-Churn-Prediction-and-Analysis)
+*ML-powered customer retention insights*
+- Built predictive models with 85%+ accuracy
+- **Stack:** Python, Scikit-learn, Data Visualization
+
+Many more....
+For more project, please go through the repositories ✌️
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SnehaVPujari007&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaVPujari007&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnehaVPujari007&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔬 **Advanced Analytics:** Exploring deep learning applications in financial data
+- 🌐 **Open Source:** Contributing to data science community projects  
+- 📚 **Learning:** MLOps and automated ML pipeline development
+- 🤝 **Collaboration:** Open to exciting data science partnerships
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+  **Always excited to discuss data, analytics, and new opportunities!**
+  
+  💼 Open for: **Data Analyst | Business Intelligence | ML Engineer** roles  
+  🌍 Based in: **Sheffield, United Kingdom** 
+    **LinkedIn**: [Sneha Pujari](https://www.linkedin.com/in/sneha-vilasrao-pujari)
+    **Email**: [dotsnehapujari555@gmail.com](mailto:dotsnehapujari555@gmail.com)
+  
+  
+  *"In data we trust, in insights we act."*
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=SnehaVPujari007&color=brightgreen&style=flat-square)
+  ![Followers](https://img.shields.io/github/followers/SnehaVPujari007?style=social)
+  
+</div>
