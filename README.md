@@ -73,19 +73,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SnehaVPujari007&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaVPujari007&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnehaVPujari007&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
@@ -103,17 +90,10 @@
   **Always excited to discuss data, analytics, and new opportunities!**
   
   💼 Open for: **Data Analyst | Business Intelligence | ML Engineer** roles  
-  🌍 Based in: **Sheffield, United Kingdom** 
+  
   
   *"In data we trust, in insights we act."*
 
 </div>
 
----
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=SnehaVPujari007&color=brightgreen&style=flat-square)
-  ![Followers](https://img.shields.io/github/followers/SnehaVPujari007?style=social)
-  
-</div>
