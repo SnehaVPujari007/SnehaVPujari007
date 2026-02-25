@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm Sneha Pujari
 
+
 <div align="center">
   
   **🔍 Data Explorer | 📊 Analytics Enthusiast | 💡 Insight Generator**
