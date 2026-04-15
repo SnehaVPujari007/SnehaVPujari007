@@ -17,7 +17,6 @@
 ## 🚀 About Me
 
 🎓 **Data Analyst** passionate about uncovering stories hidden in data  
-💼 Currently exploring opportunities in **Sheffield, UK**  
 🌍 Specializing in **global data trends** and **comparative analysis**  
 📈 Expert in transforming complex datasets into clear, actionable insights
 
